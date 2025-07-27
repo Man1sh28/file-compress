@@ -10,6 +10,7 @@ A simple and interactive **File Compressor** built with **Python** and **Streaml
 - 🗜️ Compress files on the fly
 - 💾 Download compressed files instantly
 - 🔗 Web-based interface using Streamlit
+- to increase the size of file that u can upload just edit the code in streamlit   -> config.toml
 
 ---
 
